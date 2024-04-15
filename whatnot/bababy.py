@@ -6,3 +6,4 @@ if a < 3:
     point()
 else:
     print('you suck')
+    ffffg
